@@ -15,7 +15,7 @@ public class LoginTestCase extends BaseClass {
 		@Test
 		public void login()
 		{
-			logger=extReport.createTest("Login Test1233");
+			logger=extReport.createTest("Login Test1233678999");
 			LoginPage loginpage=PageFactory.initElements(driver,LoginPage.class);
 			logger.info("Start TestCase");
 			
